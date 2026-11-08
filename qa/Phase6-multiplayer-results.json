@@ -1,0 +1,420 @@
+{
+  "first": {
+    "ok": true,
+    "value": {
+      "results": [],
+      "errors": [],
+      "error": "ServerScriptService.Phase6TemporaryQA:42: Timeout: server start",
+      "complete": false
+    }
+  },
+  "second": {
+    "ok": true,
+    "value": {
+      "results": [
+        {
+          "name": "Draw changes no wins and dispatches no progression",
+          "status": "PASS"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 0.12661763066830842,
+            "aiming": true,
+            "distance": 2.866668701171875,
+            "reason": "Accepted",
+            "pen": "Blue",
+            "held": true,
+            "rejection": "Walk closer to your pen (7.0 / 5.6 studs).",
+            "position": "-5.000061988830566, 6.005980968475342, 94.86480712890625",
+            "input": "Aim",
+            "shot": 1,
+            "q": "265.561676, 173.431229",
+            "p": "287.89978, 178.909332"
+          },
+          "name": "Round 1 Blue physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 1,
+            "aiming": true,
+            "distance": 4.029914855957031,
+            "reason": "Accepted",
+            "pen": "Red",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.3 / 5.6 studs).",
+            "position": "4.568122386932373, 6.005876064300537, 103.99329376220703",
+            "input": "Aim",
+            "shot": 2,
+            "q": "433.026825, 170.108658",
+            "p": "282.487579, 207.026642"
+          },
+          "name": "Round 1 Red physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 0.12661763066830842,
+            "aiming": true,
+            "distance": 3.492295265197754,
+            "reason": "Accepted",
+            "pen": "Blue",
+            "held": true,
+            "rejection": "Walk closer to your pen (7.0 / 5.6 studs).",
+            "position": "-3.6836512088775635, 6.005980968475342, 95.23471069335938",
+            "input": "Aim",
+            "shot": 3,
+            "q": "265.561615, 173.431305",
+            "p": "287.899719, 178.909409"
+          },
+          "name": "Round 2 Blue physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 1,
+            "aiming": true,
+            "distance": 3.1323699951171875,
+            "reason": "Accepted",
+            "pen": "Red",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.4 / 5.6 studs).",
+            "position": "4.890486240386963, 6.005980968475342, 104.86954498291016",
+            "input": "Aim",
+            "shot": 4,
+            "q": "433.026855, 170.108658",
+            "p": "282.48761, 207.026642"
+          },
+          "name": "Round 2 Red physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": [
+            {
+              "hud": true,
+              "touch": true,
+              "avatar": "Blue",
+              "viewport": "685, 338",
+              "errors": [],
+              "page": "Playing",
+              "match": {
+                "draws": 1,
+                "shotPen": "Red",
+                "round": 3,
+                "blueName": "Player1",
+                "revision": 24,
+                "aiming": false,
+                "roundIndex": 2,
+                "warningSeconds": 10,
+                "message": "Blue wins the match • both players can vote for a rematch",
+                "winner": "Blue",
+                "blueUserId": -1,
+                "turnToken": "4f4f2b96-c284-4209-8521-8387276fdff3",
+                "redRematch": false,
+                "matchPhase": "MatchResult",
+                "redWins": 0,
+                "redName": "Player2",
+                "LastRequestReason": "Accepted",
+                "turnDeadline": 0,
+                "turn": 2,
+                "shotCharge": 1,
+                "shotId": 4,
+                "LastRequestAction": "Flick",
+                "controller": -2,
+                "phase": "Won",
+                "AcceptedShots": 4,
+                "LastRequestAccepted": true,
+                "mode": "Online",
+                "redUserId": -2,
+                "matchWinner": "Blue",
+                "matchId": "2bd45d2a-e705-4f20-a798-c3e225dd25b6",
+                "blueRematch": false,
+                "blueWins": 2,
+                "gameKind": "Online",
+                "active": "Red"
+              }
+            },
+            {
+              "hud": true,
+              "touch": true,
+              "avatar": "Red",
+              "viewport": "685, 338",
+              "errors": [],
+              "page": "Playing",
+              "match": {
+                "draws": 1,
+                "shotPen": "Red",
+                "round": 3,
+                "blueName": "Player1",
+                "revision": 24,
+                "aiming": false,
+                "roundIndex": 2,
+                "warningSeconds": 10,
+                "message": "Blue wins the match • both players can vote for a rematch",
+                "winner": "Blue",
+                "blueUserId": -1,
+                "turnToken": "4f4f2b96-c284-4209-8521-8387276fdff3",
+                "redRematch": false,
+                "matchPhase": "MatchResult",
+                "redWins": 0,
+                "redName": "Player2",
+                "LastRequestReason": "Accepted",
+                "turnDeadline": 0,
+                "turn": 2,
+                "shotCharge": 1,
+                "shotId": 4,
+                "LastRequestAction": "Flick",
+                "controller": -2,
+                "phase": "Won",
+                "AcceptedShots": 4,
+                "LastRequestAccepted": true,
+                "mode": "Online",
+                "redUserId": -2,
+                "matchWinner": "Blue",
+                "matchId": "2bd45d2a-e705-4f20-a798-c3e225dd25b6",
+                "blueRematch": false,
+                "blueWins": 2,
+                "gameKind": "Online",
+                "active": "Red"
+              }
+            }
+          ],
+          "name": "Both clients receive identical best-of-three score"
+        },
+        {
+          "name": "Legitimate physical match dispatches once",
+          "status": "PASS"
+        },
+        {
+          "name": "Studio unavailable storage does not mint rewards",
+          "status": "PASS"
+        }
+      ],
+      "errors": [],
+      "error": "ServerScriptService.Phase6TemporaryQA:88: Timeout: first rematch vote",
+      "complete": false
+    }
+  },
+  "successful": {
+    "ok": true,
+    "value": {
+      "results": [
+        {
+          "name": "Draw changes no wins and dispatches no progression",
+          "status": "PASS"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 0.12661763066830842,
+            "aiming": true,
+            "distance": 2.9333648681640625,
+            "reason": "Accepted",
+            "pen": "Blue",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.6 / 5.6 studs).",
+            "position": "-5.000069618225098, 6.005980968475342, 94.93150329589844",
+            "input": "Aim",
+            "shot": 1,
+            "q": "265.561615, 173.431305",
+            "p": "287.899719, 178.909409"
+          },
+          "name": "Round 1 Blue physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 1,
+            "aiming": true,
+            "distance": 3.4653120040893555,
+            "reason": "Accepted",
+            "pen": "Red",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.2 / 5.6 studs).",
+            "position": "4.868052005767822, 6.005980968475342, 104.53720092773438",
+            "input": "Aim",
+            "shot": 2,
+            "q": "433.026855, 170.108658",
+            "p": "282.48761, 207.026642"
+          },
+          "name": "Round 1 Red physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 0.12661763066830842,
+            "aiming": true,
+            "distance": 3.105954647064209,
+            "reason": "Accepted",
+            "pen": "Blue",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.8 / 5.6 studs).",
+            "position": "-6.008227825164795, 6.005980968475342, 94.93775939941406",
+            "input": "Aim",
+            "shot": 3,
+            "q": "265.561615, 173.431305",
+            "p": "287.899719, 178.909409"
+          },
+          "name": "Round 2 Blue physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": {
+            "valid": true,
+            "charge": 1,
+            "aiming": true,
+            "distance": 4.011751651763916,
+            "reason": "Accepted",
+            "pen": "Red",
+            "held": true,
+            "rejection": "Walk closer to your pen (6.2 / 5.6 studs).",
+            "position": "4.5926103591918945, 6.004234790802002, 104.00898742675781",
+            "input": "Aim",
+            "shot": 4,
+            "q": "433.026825, 170.108658",
+            "p": "282.487579, 207.026642"
+          },
+          "name": "Round 2 Red physical drag"
+        },
+        {
+          "status": "PASS",
+          "evidence": [
+            {
+              "hud": true,
+              "touch": true,
+              "avatar": "Blue",
+              "viewport": "685, 338",
+              "errors": [],
+              "page": "Playing",
+              "match": {
+                "draws": 1,
+                "shotPen": "Red",
+                "round": 3,
+                "blueName": "Player1",
+                "revision": 24,
+                "aiming": false,
+                "roundIndex": 2,
+                "warningSeconds": 10,
+                "message": "Blue wins the match • both players can vote for a rematch",
+                "winner": "Blue",
+                "blueUserId": -1,
+                "turnToken": "786571e0-f02a-46db-8bdb-e4e1a05f2dc0",
+                "redRematch": false,
+                "matchPhase": "MatchResult",
+                "redWins": 0,
+                "redName": "Player2",
+                "LastRequestReason": "Accepted",
+                "turnDeadline": 0,
+                "turn": 2,
+                "shotCharge": 1,
+                "shotId": 4,
+                "LastRequestAction": "Flick",
+                "controller": -2,
+                "phase": "Won",
+                "AcceptedShots": 4,
+                "LastRequestAccepted": true,
+                "mode": "Online",
+                "redUserId": -2,
+                "matchWinner": "Blue",
+                "matchId": "37cfb9a4-5c29-4c46-bf76-cd6506dd98b5",
+                "blueRematch": false,
+                "blueWins": 2,
+                "gameKind": "Online",
+                "active": "Red"
+              }
+            },
+            {
+              "hud": true,
+              "touch": true,
+              "avatar": "Red",
+              "viewport": "685, 338",
+              "errors": [],
+              "page": "Playing",
+              "match": {
+                "draws": 1,
+                "shotPen": "Red",
+                "round": 3,
+                "blueName": "Player1",
+                "revision": 24,
+                "aiming": false,
+                "roundIndex": 2,
+                "warningSeconds": 10,
+                "message": "Blue wins the match • both players can vote for a rematch",
+                "winner": "Blue",
+                "blueUserId": -1,
+                "turnToken": "786571e0-f02a-46db-8bdb-e4e1a05f2dc0",
+                "redRematch": false,
+                "matchPhase": "MatchResult",
+                "redWins": 0,
+                "redName": "Player2",
+                "LastRequestReason": "Accepted",
+                "turnDeadline": 0,
+                "turn": 2,
+                "shotCharge": 1,
+                "shotId": 4,
+                "LastRequestAction": "Flick",
+                "controller": -2,
+                "phase": "Won",
+                "AcceptedShots": 4,
+                "LastRequestAccepted": true,
+                "mode": "Online",
+                "redUserId": -2,
+                "matchWinner": "Blue",
+                "matchId": "37cfb9a4-5c29-4c46-bf76-cd6506dd98b5",
+                "blueRematch": false,
+                "blueWins": 2,
+                "gameKind": "Online",
+                "active": "Red"
+              }
+            }
+          ],
+          "name": "Both clients receive identical best-of-three score"
+        },
+        {
+          "name": "Legitimate physical match dispatches once",
+          "status": "PASS"
+        },
+        {
+          "name": "Studio unavailable storage does not mint rewards",
+          "status": "PASS"
+        },
+        {
+          "name": "Rematch resets match reward eligibility",
+          "status": "PASS"
+        },
+        {
+          "name": "Timeout result dispatches no progression",
+          "status": "PASS"
+        },
+        {
+          "name": "Client unlock and equip persist to the isolated store",
+          "status": "PASS"
+        },
+        {
+          "name": "Saved loadout applies appearance and physical friction at match start",
+          "status": "PASS"
+        },
+        {
+          "name": "Cancellation and menu cleanup",
+          "status": "PASS"
+        },
+        {
+          "name": "Disconnect does not dispatch progression",
+          "status": "PASS"
+        }
+      ],
+      "errors": [],
+      "error": "",
+      "complete": true
+    }
+  },
+  "clientErrors": []
+}

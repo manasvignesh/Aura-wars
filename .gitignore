@@ -1,0 +1,5 @@
+*.rbxl.lock
+backups/
+*.rbxl
+!Pen-Fight-Aura-Wars.Phase6.rbxl
+__pycache__/
